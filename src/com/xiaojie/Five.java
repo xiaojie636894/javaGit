@@ -6,5 +6,6 @@ public class Five {
 		System.out.println("我是阿凡11");
 		System.out.println("wxj");
 		System.out.println("afan");
+		System.out.println("fangaogao");
 	}
 }
